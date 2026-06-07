@@ -1,0 +1,11 @@
+{
+  "id": "lastfm",
+  "name": "Last.fm Scrobbler",
+  "version": "0.1.0",
+  "description": "Scrobble tracks to Last.fm",
+  "author": "void-616",
+  "official": true,
+  "icon": "ti-music",
+  "entry": "index.js",
+  "permissions": ["http"]
+}
