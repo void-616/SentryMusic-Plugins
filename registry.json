@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-07",
+  "plugins": [
+    {
+      "id": "sponsorblock",
+      "name": "SponsorBlock",
+      "version": "1.0.0",
+      "description": "Automatically skip sponsored segments during YouTube playback",
+      "author": "void-616",
+      "official": true,
+      "icon": "ti-shield-check",
+      "download_url": "https://github.com/void-616/SentryMusic-Plugins/releases/download/sponsorblock-1.0.0/sponsorblock.sentry-plugin",
+      "permissions": ["http", "player:hooks"]
+    },
+    {
+      "id": "discord-rpc",
+      "name": "Discord RPC",
+      "version": "0.2.0",
+      "description": "Show currently playing track in Discord status",
+      "author": "void-616",
+      "official": true,
+      "icon": "ti-brand-discord",
+      "download_url": "https://github.com/void-616/SentryMusic-Plugins/releases/download/discord-rpc-0.2.0/discord-rpc.sentry-plugin",
+      "permissions": ["http"]
+    },
+    {
+      "id": "lastfm",
+      "name": "Last.fm Scrobbler",
+      "version": "0.1.0",
+      "description": "Scrobble tracks to Last.fm",
+      "author": "void-616",
+      "official": true,
+      "icon": "ti-music",
+      "download_url": "https://github.com/void-616/SentryMusic-Plugins/releases/download/lastfm-0.1.0/lastfm.sentry-plugin",
+      "permissions": ["http"]
+    }
+  ]
+}
