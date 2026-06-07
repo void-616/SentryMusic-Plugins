@@ -1,0 +1,11 @@
+{
+  "id": "discord-rpc",
+  "name": "Discord RPC",
+  "version": "0.2.0",
+  "description": "Show currently playing track in Discord status",
+  "author": "void-616",
+  "official": true,
+  "icon": "ti-brand-discord",
+  "entry": "index.js",
+  "permissions": ["http"]
+}
