@@ -1,0 +1,11 @@
+{
+  "id": "sponsorblock",
+  "name": "SponsorBlock",
+  "version": "1.0.0",
+  "description": "Automatically skip sponsored segments during YouTube playback",
+  "author": "void-616",
+  "official": true,
+  "icon": "ti-shield-check",
+  "entry": "index.js",
+  "permissions": ["http", "player:hooks"]
+}
